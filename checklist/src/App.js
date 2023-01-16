@@ -1,9 +1,9 @@
 import React from "react";
-import CheckList from "./components/CheckList";
+import Main from "./components/Main";
 function App() {
   return (
     <div className="App">
-      <CheckList />
+      <Main />
     </div>
   );
 }
