@@ -1,0 +1,1128 @@
+{
+  "courseListData": [
+    {
+      "id": 1,
+      "year": "2022",
+      "value": "2022-ICS-TPLPQE",
+      "name": "Institute of Chartered Shipbrokers - ICS Tutorship Programme leading to PQE",
+      "fundingCap1": "10000, fundingCap2: 10000"
+    },
+    {
+      "id": 2,
+      "year": "2022",
+      "value": "2022-ICS-AD",
+      "name": "Institute of Chartered Shipbrokers - ICS Advanced Diploma",
+      "fundingCap1": "10000, fundingCap2: 10000"
+    },
+    {
+      "id": 3,
+      "year": "2022",
+      "value": "2022-ICS-FD",
+      "name": "Institute of Chartered Shipbrokers - ICS Foundation Diploma",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 4,
+      "year": "2022",
+      "value": "2022-LMA-CVV",
+      "name": "Lloyd's Maritime Academy - Certificate in Vessel Valuation",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 5,
+      "year": "2022",
+      "value": "2022-SMA-C12DCOCPC",
+      "name": "Singapore Maritime Academy - Class 1 and 2 Deck Certificate of Competency (COC) Preparatory Course (April 2022 intake only)",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 6,
+      "year": "2022",
+      "value": "2022-SMA-C12MECOCPC",
+      "name": "Singapore Maritime Academy - Class 1 and 2 Marine Engineer Certificate of Competency (COC) Preparatory Course (April 2022 intake only)",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 7,
+      "year": "2022",
+      "value": "2022-SMA-C3DOCOCPC",
+      "name": "Singapore Maritime Academy - Class 3 Deck Officer Certificate of Competency (COC) Preparatory Course (April 2022 intake only)",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 8,
+      "year": "2022",
+      "value": "2022-ST-CBHS",
+      "name": "ST Engineering Training & Simulation Systems Pte Ltd - Category B Hydrographic Surveying",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 9,
+      "year": "2022",
+      "value": "2022-IMBM-CMS",
+      "name": "Institute of Maritime & Business Management Pte Ltd - Certificate in Maritime Studies / Certificate in Maritime Studies (Express)",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 10,
+      "year": "2022",
+      "value": "2022-LMA-DMS",
+      "name": "Lloyd's Maritime Academy - Diploma in Marine Surveying",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 11,
+      "year": "2022",
+      "value": "2022-IMBM-DMS",
+      "name": "Institute of Maritime & Business Management Pte Ltd - Diploma in Maritime Studies / Diploma in Maritime Studies (Express)",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 12,
+      "year": "2022",
+      "value": "2022-SP-DMOM",
+      "name": "Singapore Polytechnic - Diploma in Maritime and Offshore Management",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 13,
+      "year": "2022",
+      "value": "2022-DNV-WMU-PDEMM",
+      "name": "DNV GL and World Maritime University - Postgraduate Diploma in Executive Maritime Management",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 14,
+      "year": "2022",
+      "value": "2022-WMU-PDMILP",
+      "name": "World Maritime University - Postgraduate Diploma in Marine Insurance Law and Practice",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 15,
+      "year": "2022",
+      "value": "2022-MLA-BSMO",
+      "name": "MLA College in Partnership with Plymouth University - BSc/BSc(Hons) in Sustainable Maritime Operations",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 16,
+      "year": "2022",
+      "value": "2022-MLA-MSMO",
+      "name": "MLA College in Partnership with Plymouth University - MSc in Sustainable Maritime Operations (SMO) [Full programme only]",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 17,
+      "year": "2022",
+      "value": "2022-NTU-MMS",
+      "name": "Nanyang Technological University - MSc in Maritime Studies ",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 18,
+      "year": "2022",
+      "value": "2022-NTU-GDMLA",
+      "name": "National University of Singapore - Graduate Diploma in Maritime Law & Arbitration",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 19,
+      "year": "2022",
+      "value": "2022-NUS-ML",
+      "name": "National University of Singapore - Master of Laws (Maritime Law)",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 20,
+      "year": "2022",
+      "value": "2022-NTU-MMTM",
+      "name": "National University of Singapore - MSc in Maritime Technology and Management",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 21,
+      "year": "2022",
+      "value": "2022-NUSNRII-MMT",
+      "name": "Newcastle University in Singapore, Newcastle Research & Innovation Institute Pte Ltd  - MSc in Marine Technology",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 22,
+      "year": "2022",
+      "value": "2022-IUMI-OCT",
+      "name": "International Union of Marine Insurance - Online Cargo Tutorial",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 23,
+      "year": "2022",
+      "value": "2022-IUMI-OHT",
+      "name": "International Union of Marine Insurance - Onine Hull Tutorial",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 24,
+      "year": "2022",
+      "value": "2022-DNV-CSOM",
+      "name": "DNV Singapore Pte Ltd - Certificate in Shipping Operations and Management",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 25,
+      "year": "2022",
+      "value": "2022-IGP&IC-DP&IQ",
+      "name": "International Group of P&I Clubs - Diploma in P&I Qualification",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 26,
+      "year": "2021",
+      "value": "2021-ICS-TPLPQE",
+      "name": "Institute of Chartered Shipbrokers - ICS Tutorship Programme leading to PQE",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 27,
+      "year": "2021",
+      "value": "2021-ICS-AD",
+      "name": "Institute of Chartered Shipbrokers - ICS Advanced Diploma",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 28,
+      "year": "2021",
+      "value": "2021-ICS-FD",
+      "name": "Institute of Chartered Shipbrokers - ICS Foundation Diploma",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 29,
+      "year": "2021",
+      "value": "2021-LMA-CVV",
+      "name": "Lloyd's Maritime Academy - Certificate in Vessel Valuation",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 30,
+      "year": "2021",
+      "value": "2021-SMA-C12DPC",
+      "name": "Singapore Maritime Academy - CoC Class 1 & 2 Deck Preparatory Course",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 31,
+      "year": "2021",
+      "value": "2021-SMA-C12MEP",
+      "name": "Singapore Maritime Academy - CoC Class 1 & 2 Marine Engineer Preparatory (Part B)",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 32,
+      "year": "2021",
+      "value": "2021-SMA-C3DPC",
+      "name": "Singapore Maritime Academy - CoC Class 3 Deck Preparatory Course ",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 33,
+      "year": "2021",
+      "value": "2021-ST-CBHS",
+      "name": "ST Engineering Training & Simulation Systems Pte Ltd - Category B Hydrographic Surveying",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 34,
+      "year": "2021",
+      "value": "2021-IMBM-CMS",
+      "name": "Institute of Maritime & Business Management Pte Ltd - Certificate in Maritime Studies / Certificate in Maritime Studies (Express)",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 35,
+      "year": "2021",
+      "value": "2021-LMA-DMS",
+      "name": "Lloyd's Maritime Academy - Diploma in Marine Surveying",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 36,
+      "year": "2021",
+      "value": "2021-IMBM-DMS",
+      "name": "Institute of Maritime & Business Management Pte Ltd - Diploma in Maritime Studies / Diploma in Maritime Studies (Express)",
+      "fundingCap1": "10000",
+      "fundingCap2": "10000"
+    },
+    {
+      "id": 37,
+      "year": "2021",
+      "value": "2021-SP-DMOM",
+      "name": "Singapore Polytechnic - Diploma in Maritime and Offshore Management",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 38,
+      "year": "2021",
+      "value": "2021-DNV-WMU-PDEMM",
+      "name": "DNV GL and World Maritime University - Postgraduate Diploma in Executive Maritime Management",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 39,
+      "year": "2021",
+      "value": "2021-WMU-PDMILP",
+      "name": "World Maritime University - Postgraduate Diploma in Marine Insurance Law and Practice",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 40,
+      "year": "2021",
+      "value": "2021-MLA-BSMO",
+      "name": "MLA College in Partnership with Plymouth University - BSc/BSc(Hons) in Sustainable Maritime Operations",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 41,
+      "year": "2021",
+      "value": "2021-MLA-MSMO",
+      "name": "MLA College in Partnership with Plymouth University - MSc in Sustainable Maritime Operations (SMO) [Full programme only]",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 42,
+      "year": "2021",
+      "value": "2021-NTU-MMS",
+      "name": "Nanyang Technological University - MSc in Maritime Studies",
+      "fundingCap1": "20000",
+      "fundingCap2": "20000"
+    },
+    {
+      "id": 43,
+      "year": "2021",
+      "value": "2021-NUS-GDMLA",
+      "name": "National University of Singapore - Graduate Diploma in Maritime Law & Arbitration",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 44,
+      "year": "2021",
+      "value": "2021-NUS-ML",
+      "name": "National University of Singapore - Master of Laws (Maritime Law)",
+      "fundingCap1": "20000",
+      "fundingCap2": "20000"
+    },
+    {
+      "id": 45,
+      "year": "2021",
+      "fundingCap1DateRange": "01/01/2021-30/06/2021",
+      "value": "2021-NUS-MMTM",
+      "name": "National University of Singapore - MSc in Maritime Technology and Management",
+      "fundingCap1": "15000",
+      "fundingCap2": "20000"
+    },
+    {
+      "id": 46,
+      "year": "2021",
+      "value": "2021-NUSNRII-MMT",
+      "name": "Newcastle University in Singapore, Newcastle Research & Innovation Institute Pte Ltd  - MSc in Marine Technology",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 47,
+      "year": "2021",
+      "value": "2021-WMU-PDME",
+      "name": "World Maritime University - Postgraduate Diploma in Maritime Energy",
+      "fundingCap1": "15000",
+      "fundingCap2": "15000"
+    },
+    {
+      "id": 48,
+      "year": "2020",
+      "value": "2020-ICS-TPLPQE",
+      "name": "Institute of Chartered Shipbrokers - ICS Tutorship Programme leading to PQE",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 49,
+      "year": "2020",
+      "value": "2020-ICS-AD",
+      "name": "Institute of Chartered Shipbrokers - ICS Advanced Diploma",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 50,
+      "year": "2020",
+      "value": "2020-ICS-FD",
+      "name": "Institute of Chartered Shipbrokers - ICS Foundation Diploma",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 51,
+      "year": "2020",
+      "value": "2020-LMA-CVV",
+      "name": "Lloyd's Maritime Academy - Certificate in Vessel Valuation",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 52,
+      "year": "2020",
+      "value": "2020-SMA-C12DPC",
+      "name": "Singapore Maritime Academy - CoC Class 1 & 2 Deck Preparatory Course",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 53,
+      "year": "2020",
+      "value": "2020-SMA-C12MEP",
+      "name": "Singapore Maritime Academy - CoC Class 1 & 2 Marine Engineer Preparatory (Part B)",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 54,
+      "year": "2020",
+      "value": "2020-SMA-C3DPC",
+      "name": "Singapore Maritime Academy - CoC Class 3 Deck Preparatory Course ",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 55,
+      "year": "2020",
+      "value": "2020-SMA-C5MEO",
+      "name": "Singapore Maritime Academy - CoC Class 5 Marine Engineer Officer (Graduate Mechanical Engineer)",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 56,
+      "year": "2020",
+      "value": "2020-ST-CBHS",
+      "name": "ST Electronics (Training & Simulation Systems) Pte Ltd - Category B Hydrographic Surveying",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 57,
+      "year": "2020",
+      "value": "2020-IMBM-CMS",
+      "name": "Institute of Maritime & Business Management Pte Ltd - Certificate in Maritime Studies / Certificate in Maritime Studies (Express)",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 58,
+      "year": "2020",
+      "value": "2020-LMA-DMS",
+      "name": "Lloyd's Maritime Academy - Diploma in Marine Surveying",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 59,
+      "year": "2020",
+      "value": "2020-IMBM-DMS",
+      "name": "Institute of Maritime & Business Management Pte Ltd - Diploma in Maritime Studies / Diploma in Maritime Studies (Express)",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 60,
+      "year": "2020",
+      "value": "2020-SP-DMOM",
+      "name": "Singapore Polytechnic - Diploma in Maritime and Offshore Management",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 61,
+      "year": "2020",
+      "value": "2020-DNV-WMU-PDEMM",
+      "name": "DNV GL and World Maritime University - Postgraduate Diploma in Executive Maritime Management",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 62,
+      "year": "2020",
+      "value": "2020-WMU-PDMILP",
+      "name": "World Maritime University - Postgraduate Diploma in Marine Insurance Law and Practice",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 63,
+      "year": "2020",
+      "value": "2020-MLA-BSMO",
+      "name": "MLA College in Partnership with Plymouth University - BSc/BSc(Hons) in Sustainable Maritime Operations",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 64,
+      "year": "2020",
+      "value": "2020-MLA-MSMO",
+      "name": "MLA College in Partnership with Plymouth University - MSc in Sustainable Maritime Operations (SMO) [Full programme only]",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 65,
+      "year": "2020",
+      "value": "2020-NTU-MMS",
+      "name": "Nanyang Technological University - MSc in Maritime Studies ",
+      "fundingCap": "20000"
+    },
+    {
+      "id": 66,
+      "year": "2020",
+      "value": "2020-NUS-GDMLA",
+      "name": "National University of Singapore - Graduate Diploma in Maritime Law & Arbitration",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 67,
+      "year": "2020",
+      "value": "2020-NUS-ML",
+      "name": "National University of Singapore - Master of Laws (Maritime Law)",
+      "fundingCap": "20000"
+    },
+    {
+      "id": 68,
+      "year": "2020",
+      "value": "2020-NUSNRII-MMT",
+      "name": "Newcastle University in Singapore, Newcastle Research & Innovation Institute Pte Ltd  - MSc in Marine Technology",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 69,
+      "year": "2020",
+      "value": "2020-WMU-PDME",
+      "name": "World Maritime University  - Postgraduate Diploma in Maritime Energy",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 70,
+      "year": "2019",
+      "value": "2019-ICS-TPLPQE",
+      "name": "Institute of Chartered Shipbrokers - ICS Tutorship Programme leading to PQE",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 71,
+      "year": "2019",
+      "value": "2019-ICS-AD",
+      "name": "Institute of Chartered Shipbrokers - ICS Advanced Diploma",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 72,
+      "year": "2019",
+      "value": "2019-ICS-FD",
+      "name": "Institute of Chartered Shipbrokers - ICS Foundation Diploma",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 73,
+      "year": "2019",
+      "value": "2019-LMA-CVV",
+      "name": "Lloyd's Maritime Academy - Certificate in Vessel Valuation",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 74,
+      "year": "2019",
+      "value": "2019-NAP-MAS",
+      "name": "Ngee Ann Polytechnic - Certificate in Maritime Automation Systems",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 75,
+      "year": "2019",
+      "value": "2019-SIT-SE",
+      "name": "Singapore Institute of Technology - Specialist Certificate in Systems Engineering",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 76,
+      "year": "2019",
+      "value": "2019-SMA-C12DPC",
+      "name": "Singapore Maritime Academy - CoC Class 1 & 2 Deck Preparatory Course",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 77,
+      "year": "2019",
+      "value": "2019-SMA-C12MEP",
+      "name": "Singapore Maritime Academy - CoC Class 1 & 2 Marine Engineer Preparatory Course",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 78,
+      "year": "2019",
+      "value": "2019-SMA-C3DPC",
+      "name": "Singapore Maritime Academy - CoC Class 3 Deck Preparatory Course ",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 79,
+      "year": "2019",
+      "value": "2019-SMA-C5MEO",
+      "name": "Singapore Maritime Academy - CoC Class 5 Marine Engineer Officer (Graduate Mechanical Engineer)",
+      "fundingCap": "15000"
+    },
+    {
+      "id": "80",
+      "year": "2019",
+      "value": "2019-ST-CBHS",
+      "name": "ST Electronics (Training & Simulation Systems) Pte Ltd - Category B Hydrographic Surveying",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 81,
+      "year": "2019",
+      "value": "2019-LMA-DMS",
+      "name": "Lloyd's Maritime Academy - Diploma in Marine Surveying",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 82,
+      "year": "2019",
+      "value": "2019-SP-DMOM",
+      "name": "Singapore Polytechnic - Diploma in Maritime and Offshore Management",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 83,
+      "year": "2019",
+      "value": "2019-DNV-WMU-PDEMM",
+      "name": "DNV GL and World Maritime University  - Postgraduate Diploma in Executive Maritime Management",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 84,
+      "year": "2019",
+      "value": "2019-DNV-WMU-PDMSS",
+      "name": "DNV GL and World Maritime University  - Postgraduate Diploma in Maritime Safety and Security",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 85,
+      "year": "2019",
+      "value": "2019-LMA-PDMI",
+      "name": "Lloyd's Maritime Academy - Postgraduate Diploma in Marine Insurance",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 86,
+      "year": "2019",
+      "value": "2019-MLA-BSMO",
+      "name": "MLA College in Partnership with Plymouth University - BSc/BSc(Hons) in Sustainable Maritime Operations",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 87,
+      "year": "2019",
+      "value": "2019-MLA-MSMO",
+      "name": "MLA College in Partnership with Plymouth University - MSc in Sustainable Maritime Operations (SMO) [Full programme only]",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 88,
+      "year": "2019",
+      "value": "2019-NTU-MMS",
+      "name": "Nanyang Technological University - MSc in Maritime Studies ",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 89,
+      "year": "2019",
+      "value": "2019-NUS-GDMLA",
+      "name": "National University of Singapore - Graduate Diploma in Maritime Law & Arbitration",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 90,
+      "year": "2019",
+      "value": "2019-NUS-ML",
+      "name": "National University of Singapore - Master of Laws (Maritime Law)",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 91,
+      "year": "2019",
+      "value": "2019-NUSNRII-MMT",
+      "name": "Newcastle University in Singapore, Newcastle Research & Innovation Institute Pte Ltd  - MSc in Marine Technology",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 92,
+      "year": "2019",
+      "value": "2019-WMU-PDME",
+      "name": "World Maritime University  - Postgraduate Diploma in Maritime Energy",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 93,
+      "year": "2018",
+      "value": "2018-ICS-TPLPQE",
+      "name": "Institute of Chartered Shipbrokers - ICS Tutorship Programme leading to PQE",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 94,
+      "year": "2018",
+      "value": "2018-ICS-AD",
+      "name": "Institute of Chartered Shipbrokers - ICS Advanced Diploma",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 95,
+      "year": "2018",
+      "value": "2018-ICS-FD",
+      "name": "Institute of Chartered Shipbrokers - ICS Foundation Diploma",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 96,
+      "year": "2018",
+      "value": "2018-LMA-HL",
+      "name": "Lloyd's Maritime Academy - Certificate in Heavy Lift",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 97,
+      "year": "2018",
+      "value": "2018-LMA-VV",
+      "name": "Lloyd's Maritime Academy - Certificate in Vessel Valuation",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 98,
+      "year": "2018",
+      "value": "2018-LMA-MC",
+      "name": "Lloyd's Maritime Academy - Certificate in Marine Claims",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 99,
+      "year": "2018",
+      "value": "2018-LMA-MSL",
+      "name": "Lloyd's Maritime Academy - Certificate in Marine Salvage Law",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 100,
+      "year": "2018",
+      "value": "2018-NAP-CMAS",
+      "name": "Ngee Ann Polytechnic - Certificate in Maritime Automation Systems",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 101,
+      "year": "2018",
+      "value": "2018-SIT-SCSE",
+      "name": "Singapore Institute of Technology - Specialist Certificate in Systems Engineering ",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 102,
+      "year": "2018",
+      "value": "2018-SMA-C12DPC",
+      "name": "Singapore Maritime Academy - CoC Class 1 & 2 Deck Preparatory Course",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 103,
+      "year": "2018",
+      "value": "2018-SMA-C12MEP",
+      "name": "Singapore Maritime Academy - CoC Class 1 & 2 Marine Engineer Preparatory Course",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 104,
+      "year": "2018",
+      "value": "2018-SMA-C3DPC",
+      "name": "Singapore Maritime Academy - CoC Class 3 Deck Preparatory Course ",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 105,
+      "year": "2018",
+      "value": "2018-SMA-C5MEO",
+      "name": "Singapore Maritime Academy - CoC Class 5 Marine Engineer Officer (Graduate Mechanical Engineer)",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 106,
+      "year": "2018",
+      "value": "2018-ST-CBHS",
+      "name": "ST Electronics (Training & Simulation Systems) Pte Ltd - Category B Hydrographic Surveying",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 107,
+      "year": "2018",
+      "value": "2018-LMA-DMBM",
+      "name": "Lloyd's Maritime Academy - Diploma in Maritime Business Management",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 108,
+      "year": "2018",
+      "value": "2018-LMA-DMS",
+      "name": "Lloyd's Maritime Academy - Diploma in Marine Surveying",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 109,
+      "year": "2018",
+      "value": "2018-LMA-DSS",
+      "name": "Lloyd's Maritime Academy - Diploma in Ship Superintendency",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 110,
+      "year": "2018",
+      "value": "2018-MTA-DMIC",
+      "name": "Maritime Training Academy - Diploma in Marine Insurance Claims",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 111,
+      "year": "2018",
+      "value": "2018-MTA-DSS",
+      "name": "Maritime Training Academy - Diploma in Ship Surveying",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 112,
+      "year": "2018",
+      "value": "2018-SP-DMOM",
+      "name": "Singapore Polytechnic - Diploma in Maritime and Offshore Management",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 113,
+      "year": "2018",
+      "value": "2018-AMC-BBGLMM",
+      "name": "Australian Maritime College - Bachelor of Business in Global Logistics and Maritime Management",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 114,
+      "year": "2018",
+      "value": "2018-DNV-WMU-PDMSS",
+      "name": "DNV GL and World Maritime University - Postgraduate Diploma in Maritime Safety and Security",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 115,
+      "year": "2018",
+      "value": "2018-DNV-WMU-PDEMM",
+      "name": "DNV GL and World Maritime University - Postgraduate Diploma in Executive Maritime Management",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 116,
+      "year": "2018",
+      "value": "2018-LMA-PDMI",
+      "name": "Lloyd's Maritime Academy - Postgraduate Diploma in Marine Insurance",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 117,
+      "year": "2018",
+      "value": "2018-LMA-PDIML",
+      "name": "Lloyd's Maritime Academy - Postgraduate Diploma in International Maritime Law",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 118,
+      "year": "2018",
+      "value": "2018-MLA-PCSMO",
+      "name": "MLA College in Partnership with Plymouth University - Postgraduate Certificate in Sustainable Maritime Operations",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 119,
+      "year": "2018",
+      "value": "2018-MLA-PDSMO",
+      "name": "MLA College in Partnership with Plymouth University - Postgraduate Diploma in Sustainable Maritime Operations",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 120,
+      "year": "2018",
+      "value": "2018-MLA-MSMO",
+      "name": "MLA College in Partnership with Plymouth University - MSc in Sustainable Maritime Operations (SMO) [Full programme only]",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 121,
+      "year": "2018",
+      "value": "2018-MLA-BSMO",
+      "name": "MLA College in Partnership with Plymouth University - BSc/BSc(Hons) in Sustainable Maritime Operations",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 122,
+      "year": "2018",
+      "value": "2018-NTU-MMS",
+      "name": "Nanyang Technological University - MSc in Maritime Studies ",
+      "fundingCap": "20000"
+    },
+    {
+      "id": 123,
+      "year": "2018",
+      "value": "2018-NUS-GDMLA",
+      "name": "National University of Singapore - Graduate Diploma in Maritime Law & Arbitration",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 124,
+      "year": "2018",
+      "value": "2018-NUS-ML",
+      "name": "National University of Singapore - Master of Laws (Maritime Law)",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 125,
+      "year": "2018",
+      "value": "2018-NUSNRII-MMT",
+      "name": "Newcastle University in Singapore, Newcastle Research & Innovation Institute Pte Ltd  - MSc in Marine Technology",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 126,
+      "year": "2017",
+      "value": "2017-SMA-C12DPC",
+      "name": "Singapore Maritime Academy - CoC Class 1 & 2 Deck Preparatory Course",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 127,
+      "year": "2017",
+      "value": "2017-SMA-C12MEP",
+      "name": "Singapore Maritime Academy - CoC Class 1 & 2 Marine Engineer Preparatory Course",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 128,
+      "year": "2017",
+      "value": "2017-SMA-C3DPC",
+      "name": "Singapore Maritime Academy - CoC Class 3 Deck Preparatory Course ",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 129,
+      "year": "2017",
+      "value": "2017-SMA-C5MEOGME",
+      "name": "Singapore Maritime Academy - CoC Class 5 Marine Engineer Officer (Graduate Mechanical Engineer)",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 130,
+      "year": "2017",
+      "value": "2017-SMA-C5MEOOEPCWE",
+      "name": "Singapore Maritime Academy - CoC Class 5 Marine Engineer Officer (Orals Examination Preparatory Course & Written Exam)",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 131,
+      "year": "2017",
+      "value": "2017-STET-CBHS",
+      "name": "STET Maritime Pte Ltd - Category B Hydrographic Surveying",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 132,
+      "year": "2017",
+      "value": "2017-ICS-TPLPQE",
+      "name": "Institute of Chartered Shipbrokers - ICS Tutorship Programme leading to PQE",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 133,
+      "year": "2017",
+      "value": "2017-ICS-AD",
+      "name": "Institute of Chartered Shipbrokers - ICS Advanced Diploma",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 134,
+      "year": "2017",
+      "value": "2017-ICS-FD",
+      "name": "Institute of Chartered Shipbrokers - ICS Foundation Diploma",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 135,
+      "year": "2017",
+      "value": "2017-LMA-CVV",
+      "name": "Lloyd's Maritime Academy - Certificate in Vessel Valuation",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 136,
+      "year": "2017",
+      "value": "2017-LMA-CMC",
+      "name": "Lloyd's Maritime Academy - Certificate in Marine Claims",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 137,
+      "year": "2017",
+      "value": "2017-LMA-CMSL",
+      "name": "Lloyd's Maritime Academy - Certificate in Marine Salvage Law",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 138,
+      "year": "2017",
+      "value": "2017-SIT-SCSEP",
+      "name": "Singapore Institute of Technology - Specialist Certificate in System Engineering Programme ",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 139,
+      "year": "2017",
+      "value": "2017-NAP-CMMCS",
+      "name": "Ngee Ann Polytechnic - Certificate in Maritime Motion & Control Systems",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 140,
+      "year": "2017",
+      "value": "2017-SP-DMOM",
+      "name": "Singapore Polytechnic - Diploma in Maritime and Offshore Management",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 141,
+      "year": "2017",
+      "value": "2017-LMA-DMBM",
+      "name": "Lloyd's Maritime Academy - Diploma in Maritime Business Management",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 142,
+      "year": "2017",
+      "value": "2017-LMA-DMS",
+      "name": "Lloyd's Maritime Academy  - Diploma in Marine Surveying",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 143,
+      "year": "2017",
+      "value": "2017-LMA-DSS",
+      "name": "Lloyd's Maritime Academy - Diploma in Ship Superintendency",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 144,
+      "year": "2017",
+      "value": "2017-MTA-DSS",
+      "name": "Maritime Training Academy - Diploma in Ship Surveying",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 145,
+      "year": "2017",
+      "value": "2017-BIMCO-DP",
+      "name": "Baltic and International Maritime Council  - BIMCO eLearning Diploma Programme",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 146,
+      "year": "2017",
+      "value": "2017-NUS-GDMLA",
+      "name": "National University of Singapore - Graduate Diploma in Maritime Law & Arbitration",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 147,
+      "year": "2017",
+      "value": "2017-LMA-PDMI",
+      "name": "Lloyd's Maritime Academy - Postgraduate Diploma in Marine Insurance",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 148,
+      "year": "2017",
+      "value": "2017-LMA-PDIML",
+      "name": "Lloyd's Maritime Academy - Postgraduate Diploma in International Maritime Law",
+      "fundingCap": "10000"
+    },
+    {
+      "id": 149,
+      "year": "2017",
+      "value": "2017-DNV-WMU-PDMSS",
+      "name": "DNV GL and World Maritime University - Postgraduate Diploma in Maritime Safety and Security",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 150,
+      "year": "2017",
+      "value": "2017-DNV-WMU-PDEMM",
+      "name": "DNV GL and World Maritime University - Postgraduate Diploma in Executive Maritime Management",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 151,
+      "year": "2017",
+      "value": "2017-NTU-MMS",
+      "name": "Nanyang Technological University - MSc in Maritime Studies ",
+      "fundingCap": "20000"
+    },
+    {
+      "id": 152,
+      "year": "2017",
+      "value": "2017-NUS-ML",
+      "name": "National University of Singapore - Master of Laws (Maritime Law)",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 153,
+      "year": "2017",
+      "value": "2017-AMC-BBMLM",
+      "name": "Australian Maritime College - Bachelor of Business in Maritime and Logistics Management",
+      "fundingCap": "15000"
+    },
+    {
+      "id": 154,
+      "year": "2017",
+      "value": "2017-NTU-MME",
+      "name": "Nanyang Technological University - MSc in Mechanical Engineering (with specialisation in NAME)",
+      "fundingCap": "15000"
+    }
+  ]
+}
