@@ -1,5 +1,7 @@
 body {
   background-color: rgb(248, 243, 235);
+  margin: 0 auto;
+  padding: 0;
 }
 .bgcolor {
   background-color: #e0f0fc;
@@ -26,7 +28,20 @@ h3 {
 .select {
   -webkit-border-radius: 5px;
   border-radius: 5px;
-
   min-width: 100px;
   max-width: 100%;
+}
+.bgColor {
+  background-color: green;
+}
+.btn {
+  margin: 0 auto;
+  background-color: green;
+}
+.divi {
+  margin-bottom: 5rem;
+}
+.diviBottom {
+  margin-top: 5rem;
+  padding-top: 1rem;
 }

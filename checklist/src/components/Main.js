@@ -5,14 +5,17 @@ import PartTwo from "./PartTwo";
 import PartThree from "./PartThree";
 import PartFour from "./PartFour";
 import Container from "@mui/material/Container";
+import FormControl from "@mui/material/FormControl";
 const Main = () => {
   return (
     <Container maxWidth="lg">
-      {/* <CheckList /> */}
-      <PartOne />
-      <PartTwo />
-      <PartThree />
-      <PartFour />
+      <FormControl>
+        {/* <CheckList /> */}
+        <PartOne />
+        <PartTwo />
+        <PartThree />
+        <PartFour />
+      </FormControl>
     </Container>
   );
 };
