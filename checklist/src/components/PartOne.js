@@ -1,17 +1,28 @@
 import React from "react";
-//import FormControl from "@mui/material/FormControl";
-import Select from "@mui/material/Select";
-import TextField from "@mui/material/TextField";
+import { Field } from "redux-form";
 import Grid from "@mui/material/Grid";
 import Divider from "@mui/material/Divider";
+import { useState } from "react";
+import PartTwo from "./PartTwo";
+import PartFour from "./PartFour";
+import PartThree from "./PartThree";
 
 const PartOne = () => {
+  const [selectedCitizen, setSelectedCitizen] = useState();
+  const [selectedSponsorship, setSelectedSponsorship] = useState();
+
+  const onCitizenChange = (e) => {
+    setSelectedCitizen(e.target.value);
+  };
+  const onSponsorshipChange = (e) => {
+    setSelectedSponsorship(e.target.value);
+  };
+
   return (
     <div>
       <Grid item lg={12}>
         <p className="firstp">Best viewed in Chrome or Microsoft Edge</p>
       </Grid>
-
       <Grid item lg={12} className="bgcolor">
         <h3>
           Eligibility for Maritime Cluster Fund Certifiable Courses Training
@@ -39,56 +50,75 @@ const PartOne = () => {
       <Divider />
       <Grid container spacing={2} className="diviBottom">
         <Grid item lg={6}>
-          <p>Name :</p>
+          <label>Name</label>
         </Grid>
         <Grid item lg={6}>
-          <TextField id="outlined-basic" size="small" />
+          <Field name="Name" component="input" type="text" />
         </Grid>
       </Grid>
-
+      <br />
       <Grid container spacing={2}>
         <Grid item lg={6}>
-          <p>
-            Citizenship<span className="pC">*</span> : <br />
-            <span className="labelNotes">
-              Note: To qualify for MCF grant support, you must be a Singapore
-              Citizen or Singapore Permanent Resident throughout the course
-              duration.
-            </span>
-          </p>
+          <label>
+            Citizenship <span className="errortext">*</span> :
+          </label>
+          <br />
+          <span class="labelNotes">
+            Note: To qualify for MCF grant support, you must be a Singapore
+            Citizen or Singapore Permanent Resident throughout the course
+            duration.
+          </span>
         </Grid>
         <Grid item lg={6}>
-          I am/will be
-          <Select id="" size="small" className="select">
-            <option>-- Select an option --</option>
-            <option value="">Red</option>
-            <option value="">Green</option>
-            <option value={"0000ff"}>Blue</option>
-          </Select>
-          on or before commencement of the course, and on course completion
-          date.
-          <span id="errormsg_name" className="errorMessage"></span>
+          <Field
+            name="Citizenship"
+            component="select"
+            value={selectedCitizen}
+            onChange={onCitizenChange}
+          >
+            <option>--- Select an option ---</option>
+            <option value="foreigner">Foreigner</option>
+            <option value="singaporecitizen">Singapore Citizen</option>
+            <option value="singaporepermanent">
+              Singapore Permanent Resident
+            </option>
+          </Field>
         </Grid>
       </Grid>
-
+      <br />
       <Grid container spacing={2}>
         <Grid item lg={6}>
-          <p>
-            Sponsorship Status <span className="pC">*</span> :
-          </p>
+          <label>
+            Sponsorship Status <span className="errortext">*</span> :
+          </label>
         </Grid>
         <Grid item lg={6}>
-          I am/will be
-          <Select size="small" className="select">
-            <option>-- Select an option --</option>
-            <option value="">Red</option>
-            <option value="">Green</option>
-            <option value="">Blue</option>
-          </Select>
-          <span id="errormsg_name" className="errorMessage"></span>
+          <Field
+            name="Sponsorship"
+            component="select"
+            value={selectedSponsorship}
+            onChange={onSponsorshipChange}
+          >
+            <option>--- Select an option ---</option>
+            <option value="selfsponsored">Self-sponsored</option>
+            <option value="companysponsored">Company-sponsored</option>
+          </Field>
         </Grid>
       </Grid>
+      {selectedCitizen === "foreigner" && <PartFour />}
+
+      {selectedCitizen === "singaporecitizen" &&
+        selectedSponsorship === "selfsponsored" && <PartThree />}
+
+      {selectedCitizen === "singaporecitizen" &&
+        selectedSponsorship === "companysponsored" && <PartTwo />}
+
+      {selectedCitizen === "singaporepermanent" &&
+        selectedSponsorship === "selfsponsored" && <PartThree />}
+      {selectedCitizen === "singaporepermanent" &&
+        selectedSponsorship === "companysponsored" && <PartTwo />}
     </div>
   );
 };
+
 export default PartOne;

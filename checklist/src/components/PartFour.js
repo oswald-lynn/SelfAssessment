@@ -1,6 +1,7 @@
 import React from "react";
 import Grid from "@mui/material/Grid";
 import Divider from "@mui/material/Divider";
+import Stack from "@mui/material/Stack";
 import Button from "@mui/material/Button";
 
 const PartFour = () => {
@@ -8,7 +9,7 @@ const PartFour = () => {
     <div>
       <h4>Part 4 - Preliminary Assessment</h4>
       <Divider className="divi" />
-      <Grid container>
+      <Grid container className="divi">
         <Grid item lg={12}>
           <p>
             Based on the input above, you do not qualify for MCF grant support.
@@ -108,10 +109,16 @@ const PartFour = () => {
             </p>
           </Grid>
         </Grid>
+        <Grid container spacing={2}>
+          <Grid item xs={4}></Grid>
+          <Grid item xs={4} className="bgbtn">
+            <button type="submit" className="submitBtn">
+              I Agree
+            </button>
+          </Grid>
+          <Grid item xs={4}></Grid>
+        </Grid>
       </Grid>
-      <div className="btn">
-        <Button>I Agree</Button>
-      </div>
     </div>
   );
 };

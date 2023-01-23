@@ -1,22 +1,19 @@
 import React from "react";
 //import CheckList from "./CheckList";
 import PartOne from "./PartOne";
-import PartTwo from "./PartTwo";
-import PartThree from "./PartThree";
-import PartFour from "./PartFour";
 import Container from "@mui/material/Container";
-import FormControl from "@mui/material/FormControl";
-const Main = () => {
+import { reduxForm } from "redux-form";
+
+const Main = (props) => {
+  const { handleSubmit } = props;
   return (
     <Container maxWidth="lg">
-      <FormControl>
-        {/* <CheckList /> */}
+      <form onSubmit={handleSubmit}>
         <PartOne />
-        <PartTwo />
-        <PartThree />
-        <PartFour />
-      </FormControl>
+      </form>
     </Container>
   );
 };
-export default Main;
+export default reduxForm({
+  form: "Main",
+})(Main);

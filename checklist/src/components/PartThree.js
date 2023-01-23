@@ -1,120 +1,49 @@
-import React from "react";
-import Select from "@mui/material/Select";
-import TextField from "@mui/material/TextField";
-//import Container from "@mui/material/Container";
+import React, { useState } from "react";
 import Grid from "@mui/material/Grid";
 import Divider from "@mui/material/Divider";
-import AdapterDateFns from "@mui/lab/AdapterDateFns";
-import LocalizationProvider from "@mui/lab/LocalizationProvider";
-import DatePicker from "@mui/lab/DatePicker";
+import PartFour from "./PartFour";
+import PartThreeDetails from "./PartThreeDetails";
+import { Field } from "redux-form";
 
 const PartThree = () => {
-  const [value, setValue] = React.useState(null);
+  const [courseConfirm, setCourseConfirm] = useState();
+  const onCourseConfirmChange = (e) => {
+    setCourseConfirm(e.target.value);
+  };
+
   return (
     <div>
       <h4>Part 3 - Course Particulars</h4>
       <Divider />
       <Grid container spacing={2} className="diviBottom">
-        <Grid item xs={4}>
-          <p>
-            Please confirm you have completed the course within the last 1 year
-          </p>
+        <Grid item xs={5}>
+          <label>
+            Please confirm you have completed the course within the last 1 year{" "}
+            {""}
+            <span className="errortext">*</span> :
+          </label>
         </Grid>
-        <Grid item xs={8}>
-          <Select id="" size="small" className="select">
-            <option>-- Select an option --</option>
-            <option value="yes">Yes, it is confirmed.</option>
+        <Grid item xs={7}>
+          <Field
+            name="courseConfirm"
+            component="select"
+            value={courseConfirm}
+            onChange={onCourseConfirmChange}
+          >
+            <option>--- Select an option --- </option>
+            <option value="yes"> Yes, it is confirmed</option>
             <option value="pending">
-              No, I have yet to complete the course.
+              No, I have yet to complete the course
             </option>
             <option value="no">
-              No, I have completed the course more than 1 year ago.
+              No, I have completed the course more than 1 year ago
             </option>
-          </Select>
+          </Field>
         </Grid>
       </Grid>
-      <Grid container spacing={2}>
-        <Grid item lg={4}>
-          <p>
-            Year of Admission
-            <span className="pC">*</span> :
-          </p>
-        </Grid>
-        <Grid item lg={8}>
-          <Select id="" size="small" className="select">
-            <option>-- Select an option --</option>
-          </Select>
-        </Grid>
-      </Grid>
-      <Grid container spacing={2}>
-        <Grid item lg={4}>
-          <p>
-            Course Name
-            <span className="pC">*</span> :
-          </p>
-        </Grid>
-        <Grid item lg={8}>
-          <Select id="courseSelect" size="small" className="select">
-            <option disabled selected value>
-              -- Select an option --
-            </option>
-          </Select>
-        </Grid>
-      </Grid>
-      <Grid container spacing={2}>
-        <Grid item lg={4}>
-          <p>
-            Start Date
-            <span className="pC">*</span> :<br />
-            <span className="labelNotes">
-              Indicate start date of course. For courses offered by Institute of
-              Chartered Shipbrokers (ICS), please use the examination date of
-              first module as the start date.
-            </span>
-          </p>
-        </Grid>
-        <Grid item lg={8}>
-          <LocalizationProvider dateAdapter={AdapterDateFns}>
-            <DatePicker
-              label="Basic example"
-              value={value}
-              onChange={(newValue) => {
-                setValue(newValue);
-              }}
-              renderInput={(params) => <TextField {...params} />}
-            />
-          </LocalizationProvider>
-          <span id="errormsg_start_date" className="errorMessage"></span>
-        </Grid>
-      </Grid>
-      <Grid container spacing={2}>
-        <Grid item lg={4}>
-          Co Funding Support :<br />
-          <span id="supportNote" class="labelNotes"></span>
-        </Grid>
-        <Grid item xs={8}>
-          <span id="co_funding_support" className="cofundingSupportContent">
-            70%
-          </span>
-        </Grid>
-      </Grid>
-      <Grid container spacing={2}>
-        <Grid item lg={4}>
-          <p>
-            Tuition/Course Fee (w/o GST or its equivalent)
-            <span className="pC">*</span> :<br />
-            <span className="labelNotes">
-              Note : If the fee is in foreign currency, please key in fee in SGD
-              equivalent.
-            </span>
-          </p>
-        </Grid>
-        <Grid item lg={8}>
-          SGD
-          <TextField id="outlined-basic" size="small" />
-          <span id="errormsg_tuition_fee" className="errorMessage"></span>
-        </Grid>
-      </Grid>
+      {courseConfirm === "yes" && <PartThreeDetails />}
+      {courseConfirm === "pending" && <PartThreeDetails />}
+      {courseConfirm === "no" && <PartFour />}
     </div>
   );
 };
